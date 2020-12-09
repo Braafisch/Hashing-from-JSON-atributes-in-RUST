@@ -1,0 +1,1 @@
+# Hashing-from-JSON-atributes
